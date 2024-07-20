@@ -23,7 +23,7 @@
 		this module before you use, or edit it. The documentation and DevForum post can be found below.
 --]]
 -- Configuration --
-local TestBoard = "TqJGL5De" -- The Trello board used to test if the Key and Token are valid.
+local TestBoard = "Rbr4sIvD" -- The Trello board used to test if the Key and Token are valid.
 -- End of Configuration --
 --[[
 		DevForum Post: https://devforum.roblox.com/t/2090796
